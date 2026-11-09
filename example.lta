@@ -1,0 +1,6 @@
+( world
+  ( nodehierarchy
+    ( worldnode ( label "Courtyard" )
+      ( childlist
+        ( worldnode ( label "North gate" ) )
+        ( worldnode ( label "South gate" ) ) ) ) ) )
